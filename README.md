@@ -1,2 +1,5 @@
-# xavierdp-repo-1740782320106
-Dépôt de test pour le plugin Flow Server GitHub
+# GitHub Flow CLI
+
+A CLI application for creating and managing GitHub repositories using the Flow Server GitHub plugin.
+
+Created by xavierdp on 28/02/2025 23:38:46.
